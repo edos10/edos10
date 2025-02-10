@@ -21,7 +21,7 @@
 
 ### :man_technologist: About me :
 
-I am a Backend Python/Golang developer with begin-level DevOps skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+I am a Backend Python/Golang developer with medium-level SRE skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and SRE enjoyer from Moscow.
 
 - :mailbox:How to reach me: [![Teegram Badge](https://img.shields.io/badge/-Ed-red?style=flat&logo=Telegram&logoColor=white)](https://t.me/tekKz9)
 
